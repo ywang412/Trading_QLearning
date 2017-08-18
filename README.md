@@ -12,9 +12,9 @@ http://quantsoftware.gatech.edu/Machine_Learning_Algorithms_for_Trading
 Requirements
 
 This project requires Python 2.7 and the following Python libraries installed:
-Matplotlib 
-NumPy 
-Pandas 
-Seaborn 
-Run 
-Zipline
+* Matplotlib 
+* NumPy 
+* Pandas 
+* Seaborn 
+* Run 
+* Zipline
