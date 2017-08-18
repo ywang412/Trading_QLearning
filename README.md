@@ -6,12 +6,14 @@ In this python code, I will present an reinforcement learning framework to trade
 
 
 Reference
+
 T.M. Mitchell. Machine Learning. McGraw-Hill International Editions, 1997.
 http://quantsoftware.gatech.edu/Machine_Learning_Algorithms_for_Trading
 
 
 
 Requirements
+
 This project requires Python 2.7 and the following Python libraries installed:
 
 Matplotlib
